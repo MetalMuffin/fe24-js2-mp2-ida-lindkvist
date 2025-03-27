@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.parcel-cache"
+		},
+		{
+			"path": "../dist"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".parcel-cache"
+	}
+}
